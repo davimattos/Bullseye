@@ -294,6 +294,7 @@
 				DEVELOPMENT_TEAM = 647ML6734V;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = Bullseye/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "Bull's Eye";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -321,6 +322,7 @@
 				DEVELOPMENT_TEAM = 647ML6734V;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = Bullseye/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "Bull's Eye";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
